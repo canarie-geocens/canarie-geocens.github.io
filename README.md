@@ -15,7 +15,7 @@ Please see the [smart cities website](https://smartcities.sensorup.com/faq).
 ### Provenance
 New releases of the managed GeoCENS components are handled by SensorUp Inc. Before each release any tests for the component or service are run to verify integration. After release the services are monitored by a service. Each release will be accompanied by commits and changelog updates on the GeoCENS web site.
 
-### Release Notes
+### ReleaseNotes
 #### [1.0] - 2019-08-09
 * First release of Smart Air User Portal
 * First release of SensorThings Platform
@@ -24,7 +24,7 @@ New releases of the managed GeoCENS components are handled by SensorUp Inc. Befo
 ### Support
 SensorUp Inc. supports and maintains the project. Please open up an issue on our [github](https://github.com/canarie-geocens/) if you found a bug or had a feature request.
 
-### Try Me
+### TryMe
 * [Smart Air User Portal](https://geocens.sensorup.com/)
 
 
