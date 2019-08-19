@@ -3,7 +3,7 @@ This page contains the information to understand the Smart Air (GeoCENS) project
 Smart Air extends the existing GeoCENS platform to collect and analyze hyper-local and real-time air quality data across Canada. Smart Air will provide street-level air quality data with an unprecedented spatio-temporal resolution, leading to transformative new innovations with direct impacts to the health of Canadians.
 
 ### Download
-Please see our [github repository](https://github.com/canarie-geocens/) to download the source code.
+Please see our [github repository](https://github.com/smart-air-geocens/) to download the source code.
 
 ### Factsheet
 Please see the [smart cities website](https://smartcities.sensorup.com/faq).
@@ -22,7 +22,7 @@ New releases of the managed GeoCENS components are handled by SensorUp Inc. Befo
 * First release of QA/QC and re-gridding modules
 
 ### Support
-SensorUp Inc. supports and maintains the project. Please open up an issue on our [github](https://github.com/canarie-geocens/) if you found a bug or had a feature request.
+SensorUp Inc. supports and maintains the project. Please open up an issue on our [github](https://github.com/smart-air-geocens/) if you found a bug or had a feature request.
 
 ### TryMe
 * [Smart Air User Portal](https://geocens.sensorup.com/)
